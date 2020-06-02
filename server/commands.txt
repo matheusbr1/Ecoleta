@@ -1,0 +1,9 @@
+run migrations with knex
+npx knex --knexfile knexfile.ts migrate:latest
+script created : knew:migrate
+yarn run knex:migrate
+
+run seeds with knex
+npx knex --knexfile knexfile.ts seed:run
+script created : knew:seed
+yarn run knex:seed
