@@ -1,5 +1,32 @@
 ## Ecoleta
-SPA that I will develop in the next level week of Rocketseat
+Project developed in the next level week NLW#1 of <a href="https://rocketseat.com.br/" >Rocketseat</a> 🚀
+
+### For execute in your machine ☕
+<pre>
+
+Install all dependencies
+$ yarn (or npm) install
+
+On backend folder
+$ yarn (or npm) install
+
+On frontend folder
+$ yarn (or npm) install
+
+On mobile folder
+$ yarn (or npm) install
+
+</pre>
+
+The app mobile was built using <a href="https://expo.io/">Expo</a>
+<br />
+### Built with
+<ul>
+  <li><a href="https://nodejs.org/en/">Node</a></li>
+  <li><a href="https://reactjs.org/">React</a></li>
+  <li><a href="https://reactnative.dev/">React Native</a></li>
+<ul>
+
 
 #### Mobile
 ![ecoleta2](https://user-images.githubusercontent.com/28275815/84274528-5dcb9d00-ab06-11ea-9700-bf8564be5902.gif)
